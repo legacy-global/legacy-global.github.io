@@ -1,12 +1,24 @@
-.matter {
-  display: hidden;
+.disbursements {
+  display: none;
 }
 
-.time {
-  display: hidden;
+.duediligence {
+  display: none;
 }
 
-.action {
-  display: hidden;
+.entities {
+  display: none;
+}
+
+.funds_programs {
+  display: none;
+}
+
+.documents {
+  display: none;
+}
+
+body {
+  background-color: white;
 }
 /*# sourceMappingURL=styles.css.map */
